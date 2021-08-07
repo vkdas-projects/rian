@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(238, 237, 237);
+    text-align: center;
+    font-family: Tahoma;
+}
+
+.header {
+    margin-top: 30px;
+}
+
+.header h1 {
+    color: royalblue;
+    font-size: 54px;
+    margin-bottom: -10px;
+    
+}
+
+.header p {
+    font-size: 23px;
+}
+
+input {
+    width: 350px;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 16px;
+    border-color: gainsboro;
+    border-style: solid;
+}
+
+.loginBtn {
+    background-color: royalblue;
+    color: white;
+    font-size: 18px;
+}
+
+form p {
+    color: royalblue;
+    margin-top: 0px;
+    font-size: 14px;
+    border-bottom: 2px solid gainsboro;
+    padding-bottom: 20px;
+   
+}
+
+.createBtn{
+    margin-top: 10px;
+    background-color: limegreen;
+    color: white;
+    font-size: 16px;
+    width: 225px;
+}
+
+form {
+    background-color:white;
+    width: 350px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 5px;
+}
